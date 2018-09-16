@@ -1,8 +1,5 @@
-/////////////////////
-/// CORE ITEM DATA //
-/////////////////////
+GT item database by NabzGT
 
-//Start by parsing this in your map/dictionary to parse the other data.
 //ID|Item Name|Rarity|Properties|Category|Base Color|Overlay Color|Hits to break|Growtime in seconds|Clothing Type (None if its not a clothing, specified in category)
 
 0|Blank|1|NoSeed, Dropless, Beta, Mod, Untradable|Foreground_Block|690000|690000|4|31|None
